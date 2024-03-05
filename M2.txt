@@ -1,1 +1,1 @@
-
+[FBAN/MessengerLite;FBAV/288.0.0.7.188;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/927991631;FBCR/SetarNV;FBMF/infinix;FBBD/infinix;FBDV/X660;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.1,width=720,height=1433};]
