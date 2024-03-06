@@ -1,2 +1,1 @@
-[FBAN/Orca-Android;FBAV/324.0.0.1.105;FBPN/com.facebook.orca;FBLC/en_US;FBBV/587331367;FBCR/T-2;FBMF/xiaomi;FBBD/xiaomi;FBDV/Xiaomi Mi 10 Pro;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=720,height=1402};FB_FW/1;] ;
-[FBAN/MessengerLite;FBAV/263.0.0.2.164;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/593416730;FBCR/Cell C;FBMF/itel;FBBD/itel;FBDV/A46;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1435};]
+[FBAN/MessengerLite;FBAV/241.0.0.6.172;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/812922459;FBCR/Orange;FBMF/tecno;FBBD/tecno;FBDV/Camon 11 Pro;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=720,height=1419};]
