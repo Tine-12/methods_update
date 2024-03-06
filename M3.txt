@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/317.0.0.5.178;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/781870963;FBCR/Chunghwa Telecom;FBMF/infinix;FBBD/infinix;FBDV/X6816D;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.5,width=720,height=1481};]
+[FBAN/MessengerLite;FBAV/317.0.0.5.178;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/781870963;FBCR/Chunghwa Telecom;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X6816D;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.5,width=720,height=1481};]
