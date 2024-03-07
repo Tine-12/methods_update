@@ -1,1 +1,1 @@
-FBCR/MTS RUS;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi 8;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1369};];
+FBCR/MTS RUS;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi 8;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1369};];[FBAN/FB4A;FBAV/50.0.0.2531;FBBV/70306341;[FBAN/MessengerLite;FBAV/234.0.0.1.172;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/510661469;FBCR/Sky Telecom;FBMF/Samsung;FBBD/Samsung;FBDV/GT-I9500;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.4,width=720,height=1464};]
