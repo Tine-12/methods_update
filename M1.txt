@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/209.0.0.1.174;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/134582761;FBCR/S-Fone;FBMF/infinix;FBBD/infinix;FBDV/Infinix X622;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=720,height=1477};]
+FBCR/T-Mobile;FBMF/motorola;FBBD/motorola;FBDV/moto g play;FBSV/12;FBCA/arm64-v8a:null;Madam/{density=1.75,width=720,height=1439};]
