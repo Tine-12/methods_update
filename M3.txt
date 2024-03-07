@@ -1,1 +1,1 @@
-FBCR/TNT;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X665E;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1472};]
+FBCR/MTS RUS;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi 8;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1369};];
